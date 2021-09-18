@@ -21,4 +21,6 @@ The analysis is carried out on the three types of cities namely Urban, Suburban 
 
 ## Recommendations to address disparities among the city types:
 
-1. 
+1. In March all the city types have the lowest fares, we could have some adevertisements or promotions so that the fares dont drop.
+2. Drivers and rides are concentrated in the Urban cities - we need to have a drivers in the suburbs and rural area - may be because there are fewer drivers the rides are less.  We need to experiment to find out the need is more but the drivers a few in suburan and rural cities.
+3.  Increase the drivers in the urban cities - to see if there is a need for more driveres which could bring more revenue.
